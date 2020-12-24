@@ -1,4 +1,4 @@
----
+----
 
 Detects wheter a person has pneumonia or not
 
