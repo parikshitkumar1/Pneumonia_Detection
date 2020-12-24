@@ -6,4 +6,4 @@ Detects wheter a person has pneumonia or not
 
 early stopping can be used (acc 87.5-93.5)
 
----
+----
